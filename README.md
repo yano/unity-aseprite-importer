@@ -1,3 +1,5 @@
+# I want to convert only "ase" file. So I comment out "aseprite" file extension from AseFileImporter.cs . That's all.
+
 # Aseprite-Importer for Unity
 ![AsepriteImporter Thumbnail](GitHub/AsepriteImporterUnity.png)
 
